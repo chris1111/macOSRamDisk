@@ -117,7 +117,7 @@ if macOS is {"5GB"} then
 	set sizeInSectors to "10488760"
 	set n to 5
 	set progress total steps to n
-	set progress description to "macOS-RamDisk ➤ " & FileSystem & " ➦ 256MB= (" & sizeInSectors & ")"
+	set progress description to "macOS-RamDisk ➤ " & FileSystem & " ➦ 5GB= (" & sizeInSectors & ")"
 	set progress additional description to "Create macOS-RamDisk Done"
 	
 	repeat with i from 1 to n
