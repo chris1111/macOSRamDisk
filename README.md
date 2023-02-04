@@ -5,7 +5,7 @@
 
 Download ➤ [macOSRamDisk](https://github.com/chris1111/macOSRamDisk/releases/tag/V1)
 
-![04155949 2](https://user-images.githubusercontent.com/6248794/216792078-35fdcf31-b8e5-4fa7-bef5-ad65a89ff6b5.png)
+![04155949 2](https://user-images.githubusercontent.com/6248794/216794016-8fcd5c8f-8458-42d8-81bf-829335ed29b8.png)
 
 
 If you want to use the terminal see here ➤ [macOS-RamDisk](https://gist.github.com/chris1111/df27e63e4e46bde9ed5841cb232d377e)
