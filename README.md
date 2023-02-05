@@ -9,3 +9,6 @@ Download ➤ [macOSRamDisk](https://github.com/chris1111/macOSRamDisk/releases/t
 
 
 If you want to use the terminal see here ➤ [macOS-RamDisk](https://gist.github.com/chris1111/df27e63e4e46bde9ed5841cb232d377e)
+### App macOS-RamDisk V1-Terminal ⬇︎
+
+Download ➤ [macOS-RamDisk](https://github.com/chris1111/macOSRamDisk/releases/tag/V1-Terminal) App macOS-RamDisk V1-Terminal
