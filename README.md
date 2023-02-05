@@ -12,3 +12,9 @@ If you want to use the terminal see here ➤ [macOS-RamDisk](https://gist.github
 ### App macOS-RamDisk V1-Terminal ⬇︎
 
 Download ➤ [macOS-RamDisk](https://github.com/chris1111/macOSRamDisk/releases/tag/V1-Terminal) App macOS-RamDisk V1-Terminal
+
+### Small Video macOS-RamDisk V1-Terminal ⬇︎
+
+https://user-images.githubusercontent.com/6248794/216827468-4d41c9ab-8583-4c89-a2df-6fb23d74b020.mov
+
+
