@@ -1,6 +1,6 @@
 # macOSRamDisk
 - Simple wrapper Applescript bundle to create a RamDisk on macOS
-- Simple bash script bundle to create a RamDisk on macOS
+- Simple wrapper bash script bundle to create a RamDisk on macOS
 - Credit: [Apple](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 
 
