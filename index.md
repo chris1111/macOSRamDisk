@@ -32,6 +32,6 @@ Download ➤ [macOS-RamDisk](https://github.com/chris1111/macOSRamDisk/releases/
 
 ### Small Video macOS-RamDisk V1-Terminal ⬇︎
 
-https://user-images.githubusercontent.com/6248794/216827468-4d41c9ab-8583-4c89-a2df-6fb23d74b020.mov
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/180882015-aa6209bd-a10d-4a1e-85cf-d9729b8e0efc.png)](https://user-images.githubusercontent.com/6248794/216827468-4d41c9ab-8583-4c89-a2df-6fb23d74b020.mov)
 
 
