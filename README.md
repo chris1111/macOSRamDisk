@@ -6,7 +6,7 @@
 
 
 ### App macOS-RamDisk V1-Terminal ⬇︎
-Download ➤ [macOS-RamDisk](https://github.com/chris1111/macOSRamDisk/releases/tag/V1-Terminal) App macOS-RamDisk V1-Terminal `For macOS Big Sur 11 to macOS Ventura 13`
+Download ➤ [macOS-RamDisk](https://github.com/chris1111/macOSRamDisk/releases/tag/V1-Terminal) App macOS-RamDisk V1-Terminal `For macOS Big Sur 11 to macOS Sonoma 14`
 
 
 Download ➤ [macOS-RamDisk](https://github.com/chris1111/macOSRamDisk/releases/tag/V1-Terminal-Old) App macOS-RamDisk V1-Terminal-Old `For macOS Yosemite 10.10 to macOS Catalina 10.15`
@@ -21,4 +21,4 @@ Download ➤ [macOS-RamDisk](https://github.com/chris1111/macOSRamDisk/releases/
 Download ➤ [macOSRamDisk AppleScript](https://github.com/chris1111/macOSRamDisk/releases/tag/V1)
 
 
-#### If you want to use the terminal see here ➤ [macOS-RamDisk](https://gist.github.com/chris1111/df27e63e4e46bde9ed5841cb232d377e) `For macOS Big Sur 11 to macOS Ventura 13`
+#### If you want to use the terminal see here ➤ [macOS-RamDisk](https://gist.github.com/chris1111/df27e63e4e46bde9ed5841cb232d377e) `For macOS Big Sur 11 to macOS Sonoma 14`
